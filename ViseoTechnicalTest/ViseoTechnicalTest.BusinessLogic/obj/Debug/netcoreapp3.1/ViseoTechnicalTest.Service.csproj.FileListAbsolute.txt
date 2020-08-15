@@ -1,0 +1,17 @@
+D:\source\ViseoTechnicalTest\ViseoTechnicalTest.BusinessLogic\bin\Debug\netcoreapp3.1\ViseoTechnicalTest.Service.deps.json
+D:\source\ViseoTechnicalTest\ViseoTechnicalTest.BusinessLogic\bin\Debug\netcoreapp3.1\ViseoTechnicalTest.Service.runtimeconfig.json
+D:\source\ViseoTechnicalTest\ViseoTechnicalTest.BusinessLogic\bin\Debug\netcoreapp3.1\ViseoTechnicalTest.Service.runtimeconfig.dev.json
+D:\source\ViseoTechnicalTest\ViseoTechnicalTest.BusinessLogic\bin\Debug\netcoreapp3.1\ViseoTechnicalTest.Service.dll
+D:\source\ViseoTechnicalTest\ViseoTechnicalTest.BusinessLogic\bin\Debug\netcoreapp3.1\ViseoTechnicalTest.Service.pdb
+D:\source\ViseoTechnicalTest\ViseoTechnicalTest.BusinessLogic\bin\Debug\netcoreapp3.1\ViseoTechnicalTest.Database.dll
+D:\source\ViseoTechnicalTest\ViseoTechnicalTest.BusinessLogic\bin\Debug\netcoreapp3.1\ViseoTechnicalTest.Jwt.dll
+D:\source\ViseoTechnicalTest\ViseoTechnicalTest.BusinessLogic\bin\Debug\netcoreapp3.1\ViseoTechnicalTest.Database.pdb
+D:\source\ViseoTechnicalTest\ViseoTechnicalTest.BusinessLogic\bin\Debug\netcoreapp3.1\ViseoTechnicalTest.Jwt.pdb
+D:\source\ViseoTechnicalTest\ViseoTechnicalTest.BusinessLogic\obj\Debug\netcoreapp3.1\ViseoTechnicalTest.Service.csprojAssemblyReference.cache
+D:\source\ViseoTechnicalTest\ViseoTechnicalTest.BusinessLogic\obj\Debug\netcoreapp3.1\ViseoTechnicalTest.Service.AssemblyInfoInputs.cache
+D:\source\ViseoTechnicalTest\ViseoTechnicalTest.BusinessLogic\obj\Debug\netcoreapp3.1\ViseoTechnicalTest.Service.AssemblyInfo.cs
+D:\source\ViseoTechnicalTest\ViseoTechnicalTest.BusinessLogic\obj\Debug\netcoreapp3.1\ViseoTechnicalTest.Service.csproj.CoreCompileInputs.cache
+D:\source\ViseoTechnicalTest\ViseoTechnicalTest.BusinessLogic\obj\Debug\netcoreapp3.1\ViseoTechnicalTest.Service.csproj.CopyComplete
+D:\source\ViseoTechnicalTest\ViseoTechnicalTest.BusinessLogic\obj\Debug\netcoreapp3.1\ViseoTechnicalTest.Service.dll
+D:\source\ViseoTechnicalTest\ViseoTechnicalTest.BusinessLogic\obj\Debug\netcoreapp3.1\ViseoTechnicalTest.Service.pdb
+D:\source\ViseoTechnicalTest\ViseoTechnicalTest.BusinessLogic\obj\Debug\netcoreapp3.1\ViseoTechnicalTest.Service.genruntimeconfig.cache

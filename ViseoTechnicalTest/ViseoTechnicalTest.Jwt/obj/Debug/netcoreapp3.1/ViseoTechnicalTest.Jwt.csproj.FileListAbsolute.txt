@@ -1,0 +1,9 @@
+D:\source\ViseoTechnicalTest\ViseoTechnicalTest.Jwt\bin\Debug\netcoreapp3.1\ViseoTechnicalTest.Jwt.deps.json
+D:\source\ViseoTechnicalTest\ViseoTechnicalTest.Jwt\bin\Debug\netcoreapp3.1\ViseoTechnicalTest.Jwt.dll
+D:\source\ViseoTechnicalTest\ViseoTechnicalTest.Jwt\bin\Debug\netcoreapp3.1\ViseoTechnicalTest.Jwt.pdb
+D:\source\ViseoTechnicalTest\ViseoTechnicalTest.Jwt\obj\Debug\netcoreapp3.1\ViseoTechnicalTest.Jwt.csprojAssemblyReference.cache
+D:\source\ViseoTechnicalTest\ViseoTechnicalTest.Jwt\obj\Debug\netcoreapp3.1\ViseoTechnicalTest.Jwt.AssemblyInfoInputs.cache
+D:\source\ViseoTechnicalTest\ViseoTechnicalTest.Jwt\obj\Debug\netcoreapp3.1\ViseoTechnicalTest.Jwt.AssemblyInfo.cs
+D:\source\ViseoTechnicalTest\ViseoTechnicalTest.Jwt\obj\Debug\netcoreapp3.1\ViseoTechnicalTest.Jwt.csproj.CoreCompileInputs.cache
+D:\source\ViseoTechnicalTest\ViseoTechnicalTest.Jwt\obj\Debug\netcoreapp3.1\ViseoTechnicalTest.Jwt.dll
+D:\source\ViseoTechnicalTest\ViseoTechnicalTest.Jwt\obj\Debug\netcoreapp3.1\ViseoTechnicalTest.Jwt.pdb

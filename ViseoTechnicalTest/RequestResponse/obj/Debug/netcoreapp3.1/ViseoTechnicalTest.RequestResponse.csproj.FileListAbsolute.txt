@@ -1,0 +1,8 @@
+D:\source\ViseoTechnicalTest\RequestResponse\bin\Debug\netcoreapp3.1\ViseoTechnicalTest.RequestResponse.deps.json
+D:\source\ViseoTechnicalTest\RequestResponse\bin\Debug\netcoreapp3.1\ViseoTechnicalTest.RequestResponse.dll
+D:\source\ViseoTechnicalTest\RequestResponse\bin\Debug\netcoreapp3.1\ViseoTechnicalTest.RequestResponse.pdb
+D:\source\ViseoTechnicalTest\RequestResponse\obj\Debug\netcoreapp3.1\ViseoTechnicalTest.RequestResponse.AssemblyInfoInputs.cache
+D:\source\ViseoTechnicalTest\RequestResponse\obj\Debug\netcoreapp3.1\ViseoTechnicalTest.RequestResponse.AssemblyInfo.cs
+D:\source\ViseoTechnicalTest\RequestResponse\obj\Debug\netcoreapp3.1\ViseoTechnicalTest.RequestResponse.csproj.CoreCompileInputs.cache
+D:\source\ViseoTechnicalTest\RequestResponse\obj\Debug\netcoreapp3.1\ViseoTechnicalTest.RequestResponse.dll
+D:\source\ViseoTechnicalTest\RequestResponse\obj\Debug\netcoreapp3.1\ViseoTechnicalTest.RequestResponse.pdb

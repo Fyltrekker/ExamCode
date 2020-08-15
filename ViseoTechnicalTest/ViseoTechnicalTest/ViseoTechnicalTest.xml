@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ViseoTechnicalTest</name>
+    </assembly>
+    <members>
+        <member name="M:ViseoTechnicalTest.Contoller.UsersController.Get">
+            <summary>
+            Get User info
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ViseoTechnicalTest.Contoller.UsersController.CreateUser(ViseoTechnicalTest.RequestResponse.Request.CreateUserRequest)">
+            <summary>
+            Creates a user
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ViseoTechnicalTest.Contoller.UsersController.Delete(System.Int32)">
+            <summary>
+            Soft deletes a certain user
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
+

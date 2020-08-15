@@ -1,0 +1,12 @@
+D:\source\ViseoTechnicalTest\Database\bin\Debug\netcoreapp3.1\ViseoTechnicalTest.Database.deps.json
+D:\source\ViseoTechnicalTest\Database\bin\Debug\netcoreapp3.1\ViseoTechnicalTest.Database.runtimeconfig.json
+D:\source\ViseoTechnicalTest\Database\bin\Debug\netcoreapp3.1\ViseoTechnicalTest.Database.runtimeconfig.dev.json
+D:\source\ViseoTechnicalTest\Database\bin\Debug\netcoreapp3.1\ViseoTechnicalTest.Database.dll
+D:\source\ViseoTechnicalTest\Database\bin\Debug\netcoreapp3.1\ViseoTechnicalTest.Database.pdb
+D:\source\ViseoTechnicalTest\Database\obj\Debug\netcoreapp3.1\ViseoTechnicalTest.Database.csprojAssemblyReference.cache
+D:\source\ViseoTechnicalTest\Database\obj\Debug\netcoreapp3.1\ViseoTechnicalTest.Database.AssemblyInfoInputs.cache
+D:\source\ViseoTechnicalTest\Database\obj\Debug\netcoreapp3.1\ViseoTechnicalTest.Database.AssemblyInfo.cs
+D:\source\ViseoTechnicalTest\Database\obj\Debug\netcoreapp3.1\ViseoTechnicalTest.Database.csproj.CoreCompileInputs.cache
+D:\source\ViseoTechnicalTest\Database\obj\Debug\netcoreapp3.1\ViseoTechnicalTest.Database.dll
+D:\source\ViseoTechnicalTest\Database\obj\Debug\netcoreapp3.1\ViseoTechnicalTest.Database.pdb
+D:\source\ViseoTechnicalTest\Database\obj\Debug\netcoreapp3.1\ViseoTechnicalTest.Database.genruntimeconfig.cache

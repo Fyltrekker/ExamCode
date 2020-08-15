@@ -1,0 +1,23 @@
+D:\Source Code\ViseoTechnicalTest\ViseoTechnicalTest\bin\Debug\netcoreapp3.1\ViseoTechnicalTest.xml\netcoreapp3.1\appsettings.Development.json
+D:\Source Code\ViseoTechnicalTest\ViseoTechnicalTest\bin\Debug\netcoreapp3.1\ViseoTechnicalTest.xml\netcoreapp3.1\appsettings.json
+D:\Source Code\ViseoTechnicalTest\ViseoTechnicalTest\bin\Debug\netcoreapp3.1\ViseoTechnicalTest.xml\netcoreapp3.1\Properties\launchSettings.json
+D:\Source Code\ViseoTechnicalTest\ViseoTechnicalTest\bin\Debug\netcoreapp3.1\ViseoTechnicalTest.xml\netcoreapp3.1\ViseoTechnicalTest.exe
+D:\Source Code\ViseoTechnicalTest\ViseoTechnicalTest\bin\Debug\netcoreapp3.1\ViseoTechnicalTest.xml\netcoreapp3.1\ViseoTechnicalTest.xml
+D:\Source Code\ViseoTechnicalTest\ViseoTechnicalTest\bin\Debug\netcoreapp3.1\ViseoTechnicalTest.xml\netcoreapp3.1\ViseoTechnicalTest.deps.json
+D:\Source Code\ViseoTechnicalTest\ViseoTechnicalTest\bin\Debug\netcoreapp3.1\ViseoTechnicalTest.xml\netcoreapp3.1\ViseoTechnicalTest.runtimeconfig.json
+D:\Source Code\ViseoTechnicalTest\ViseoTechnicalTest\bin\Debug\netcoreapp3.1\ViseoTechnicalTest.xml\netcoreapp3.1\ViseoTechnicalTest.runtimeconfig.dev.json
+D:\Source Code\ViseoTechnicalTest\ViseoTechnicalTest\bin\Debug\netcoreapp3.1\ViseoTechnicalTest.xml\netcoreapp3.1\ViseoTechnicalTest.dll
+D:\Source Code\ViseoTechnicalTest\ViseoTechnicalTest\bin\Debug\netcoreapp3.1\ViseoTechnicalTest.xml\netcoreapp3.1\ViseoTechnicalTest.pdb
+D:\source\ViseoTechnicalTest\ViseoTechnicalTest\obj\Debug\netcoreapp3.1\ViseoTechnicalTest.csprojAssemblyReference.cache
+D:\source\ViseoTechnicalTest\ViseoTechnicalTest\obj\Debug\netcoreapp3.1\ViseoTechnicalTest.AssemblyInfoInputs.cache
+D:\source\ViseoTechnicalTest\ViseoTechnicalTest\obj\Debug\netcoreapp3.1\ViseoTechnicalTest.AssemblyInfo.cs
+D:\source\ViseoTechnicalTest\ViseoTechnicalTest\obj\Debug\netcoreapp3.1\ViseoTechnicalTest.csproj.CoreCompileInputs.cache
+D:\source\ViseoTechnicalTest\ViseoTechnicalTest\obj\Debug\netcoreapp3.1\ViseoTechnicalTest.MvcApplicationPartsAssemblyInfo.cs
+D:\source\ViseoTechnicalTest\ViseoTechnicalTest\obj\Debug\netcoreapp3.1\ViseoTechnicalTest.MvcApplicationPartsAssemblyInfo.cache
+D:\source\ViseoTechnicalTest\ViseoTechnicalTest\obj\Debug\netcoreapp3.1\ViseoTechnicalTest.RazorTargetAssemblyInfo.cache
+D:\source\ViseoTechnicalTest\ViseoTechnicalTest\obj\Debug\netcoreapp3.1\ViseoTechnicalTest.csproj.CopyComplete
+D:\source\ViseoTechnicalTest\ViseoTechnicalTest\obj\Debug\netcoreapp3.1\staticwebassets\ViseoTechnicalTest.StaticWebAssets.Manifest.cache
+D:\source\ViseoTechnicalTest\ViseoTechnicalTest\obj\Debug\netcoreapp3.1\staticwebassets\ViseoTechnicalTest.StaticWebAssets.xml
+D:\source\ViseoTechnicalTest\ViseoTechnicalTest\obj\Debug\netcoreapp3.1\ViseoTechnicalTest.dll
+D:\source\ViseoTechnicalTest\ViseoTechnicalTest\obj\Debug\netcoreapp3.1\ViseoTechnicalTest.pdb
+D:\source\ViseoTechnicalTest\ViseoTechnicalTest\obj\Debug\netcoreapp3.1\ViseoTechnicalTest.genruntimeconfig.cache
